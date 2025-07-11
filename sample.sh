@@ -1,3 +1,3 @@
 ll
 pwd
-cat /etc/os-release
+cat /etc/os-releasee
